@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1>Hola soi cori y mg programar</h1>
+<h1>Hi, this is Cori</h1>
 
 # esto es un h1
 
