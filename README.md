@@ -1,4 +1,4 @@
-### Hi, this is Cori!
+### Hi, this is Cori! 👋
 
 <h3>About Me:</h3>
   <ur>
