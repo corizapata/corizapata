@@ -1,6 +1,6 @@
 # Hi, this is Cori! 👋
 <h3>About Me:</h3>
-<p>I am currently in my last year of high school, I am 17 years old and i am studying a pre-university degree in business administration but I also plan to do a technical career in programming later. I like sports very much, especially volleyball and handball.</p>
+<p>I am currently in my last year of high school, I am 17 years old and i am studying a pre-university degree in business administration but I also plan to do a technical career in programming later. I like to practice sports in my free time, especially volleyball and handball.</p>
 
 <h3>My Likes:</h3>
   <ur>
