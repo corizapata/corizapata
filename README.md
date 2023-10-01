@@ -1,7 +1,6 @@
 ### Hi, this is Cori!
 
-<h2>About Me</h2>
+<h3>About Me</h3>
   <ur>
-    <li>Me gusta escuchar música</li>
-    
+    <li></li>
   </ur>
