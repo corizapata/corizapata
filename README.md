@@ -1,6 +1,6 @@
 # Hi, this is Cori! 👋
 <h3>About Me:</h3>
-<p>I am currently in my last year of high school, I am 17 years old and studying a pre-university degree in business administration.</p>
+<p>I am currently in my last year of high school, I am 17 years old and studying a pre-university degree in business administration but I also plan to do a technical career in programming</p>
 
 <h3>My Likes:</h3>
   <ur>
