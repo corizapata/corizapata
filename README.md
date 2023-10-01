@@ -1,6 +1,6 @@
 ### Hi, this is Cori!
-<hr>
 
-# esto es un h1
-
-[esto es un link](http://google.com)
+<h1>About Me</h1>
+  <ur>
+    <li>Me gusta escuchar música</li>
+  </ur>
